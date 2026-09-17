@@ -1,0 +1,15 @@
+{
+  "name": "lab",
+  "description": "Marketplace for the clone-website plugin.",
+  "owner": {
+    "name": "valou13390"
+  },
+  "plugins": [
+    {
+      "name": "clone-website",
+      "source": "./",
+      "description": "Reverse-engineer and clone one or more websites in one shot — extracts assets, CSS, and content section-by-section and dispatches parallel builder agents.",
+      "version": "1.0.0"
+    }
+  ]
+}
